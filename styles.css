@@ -1,0 +1,55 @@
+
+body {
+    background-color: #A8BBF5;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+   
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.music {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+
+}
+
+input {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: double 3px;
+    border-style: outset;
+}
+
+
+button:hover {
+    background-color: #D3D3D3;
+    color: white;
+}
+
+.results {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+}
